@@ -17,7 +17,6 @@ int main()
     scanf("%f", &nota5);
     media= (nota1+nota2+nota3+nota4+nota5) / 5;
     printf("a nota dos aluno sera %.2f\n", media);
-    print("teste\n");
 
     system("pause");
     
