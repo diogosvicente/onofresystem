@@ -1,0 +1,16 @@
+Hard Skills
+C Programming Language:
+
+            The primary language through the Basecamp, from the most basics as dealing with 
+            operators, variables, pointers, memory allocation, libraries and more resources 
+            to solve challanges and replicate existing standard functions.
+
+Shell:          
+
+            The first two lists are about Shell, going through simple to more complex commands 
+            in command line, making you feel more comfortable using the terminal.
+
+Git:
+
+            All projects are submitted to a remote Git repository, so it is essential to learn it 
+            since the first moment during Basecamp.

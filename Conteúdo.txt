@@ -1,0 +1,10 @@
+[FrontEnd]
+HTML
+CSS
+Javascript (Framework NodeJS)
+
+
+
+[BackEnd]
+PHP (Framework Laravel e CodeIgniter)
+Python (Frameworks Django e Flask)

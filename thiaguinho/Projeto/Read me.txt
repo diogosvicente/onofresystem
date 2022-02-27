@@ -1,0 +1,7 @@
+0. O que são soft e hard skills? Ler arquivos;
+1. Criar conta no GitHub;
+2. Pesquisar diferença entre Git e Github;
+3. Instalar um editor de texto;
+4. Criar um repositório comum entre nós 3 no github;
+5. Fazer o exercício "Eu aceito" da 42 Rio;
+6. Fazer os dois primeiros exercícios da lista Shell00 da 42 Rio.
